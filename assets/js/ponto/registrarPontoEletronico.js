@@ -1,7 +1,7 @@
     //####################### API mapbox #######################
 
     //Minha chave de acesso
-    mapboxgl.accessToken = 'pk.eyJ1IjoibHVjYXNjYXJtb3NlZHVjIiwiYSI6ImNsZjc4em4wZDF0dXUzc2s3NWFzdGxmNDQifQ.xS4_VN4m8zneH1KbItrkNA';
+    mapboxgl.accessToken = 'SUA CHAVE';
 
     //pego as coordenadas aqui
     navigator.geolocation.getCurrentPosition(function(position) {
