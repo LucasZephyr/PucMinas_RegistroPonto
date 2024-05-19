@@ -1,7 +1,7 @@
 # Zephyr
 
 ##### Sistema feito em grande parte em PHP para registro de ponto eletrônicamente.
-##### Sistema tem intuito de obter a nota final para o curso na pós graudação da PucMinas.
+##### Sistema tem intuito de obter a nota final da PucMinas.
 
  
 - Fácil
