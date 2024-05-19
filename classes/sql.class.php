@@ -1,7 +1,5 @@
 <?php
 
-require_once("conexao.class.php");
-
 class SQL {
 
     var $conexao;
