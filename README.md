@@ -31,8 +31,9 @@
 
 1. Recomendo utilizar PHP 5.6 ou superior.
 2. Baixe e instalar um servidor na sua maquina, recomendo utilizar xampp.
-3. A estrutura da tabela está em um arquivo chamado 'Dumo.sql', que contém todas as tabelas necessárias para o sistema.
-4. usuario e senha: usuario1 => 123456789
+3. A estrutura da tabela está em um arquivo chamado 'Dump.sql', que contém todas as tabelas necessárias para o sistema.
+4. Login: usuario e senha: usuario1 => 123456789
+5. API de geolocalização utilizada é mapBox, garanta sua chave token.
 
 
 ## License
