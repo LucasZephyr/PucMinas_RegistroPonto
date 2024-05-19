@@ -1,0 +1,178 @@
+[07-May-2024 14:41:44 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 10
+[07-May-2024 14:41:44 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 14:41:44 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 14:41:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zephyr98/public_html/gestor/processa/processa_login.php:1) in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 26
+[07-May-2024 14:46:27 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 10
+[07-May-2024 14:46:27 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 14:46:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 14:46:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zephyr98/public_html/gestor/processa/processa_login.php:1) in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 26
+[07-May-2024 14:55:38 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 10
+[07-May-2024 14:55:38 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 14:55:38 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 14:55:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zephyr98/public_html/gestor/processa/processa_login.php:1) in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 26
+[07-May-2024 14:56:19 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 10
+[07-May-2024 14:56:19 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 14:56:19 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 14:56:19 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zephyr98/public_html/gestor/processa/processa_login.php:1) in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 26
+[07-May-2024 14:58:04 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 10
+[07-May-2024 14:58:04 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 14:58:04 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 15:00:00 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 10
+[07-May-2024 15:00:00 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 15:00:00 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 15:00:33 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 10
+[07-May-2024 15:00:33 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 15:00:33 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 22
+[07-May-2024 15:00:33 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zephyr98/public_html/gestor/processa/processa_login.php:1) in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 26
+[07-May-2024 15:00:51 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 10
+[07-May-2024 15:01:16 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 10
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 10
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 42
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 42
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 140
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 140
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 141
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 141
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 142
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 142
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 143
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 143
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 144
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 144
+[07-May-2024 15:01:24 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zephyr98/public_html/gestor/processa/processa_login.php:1) in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 70
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 132
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 132
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 133
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 133
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 134
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 134
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 135
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 135
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 136
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 136
+[07-May-2024 15:04:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zephyr98/public_html/gestor/processa/processa_login.php:34) in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 62
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 10
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 42
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 42
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 140
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 140
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 141
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 141
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 142
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 142
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 143
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 143
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 144
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 144
+[07-May-2024 15:04:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zephyr98/public_html/gestor/processa/processa_login.php:1) in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 70
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 132
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 132
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 133
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 133
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 134
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 134
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 135
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 135
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 136
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 136
+[07-May-2024 15:05:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/zephyr98/public_html/classes/sql.class.php:31) in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 62
+[07-May-2024 15:06:32 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 15:10:04 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 15:18:27 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 15:22:58 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 15:25:31 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 15:37:53 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 16:11:23 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 16:21:37 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 16:33:10 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 16:40:14 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 16:48:27 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:09:59 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:11:38 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:20:29 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:21:24 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:22:59 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:32:43 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:37:15 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:37:43 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:38:36 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:41:57 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:44:04 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 18:44:19 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 19:16:41 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 19:23:19 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 19:55:22 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 20:55:26 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 20:58:12 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 20:59:59 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 21:46:22 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 21:48:46 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[07-May-2024 22:37:14 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 08:35:31 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 08:38:05 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 08:51:28 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 08:52:34 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 08:53:23 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 08:57:40 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 08:57:41 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 09:20:15 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 12:30:43 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 12:38:46 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 16:21:42 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 20:45:41 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 20:46:41 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[08-May-2024 23:49:29 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[09-May-2024 07:07:09 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[09-May-2024 07:07:09 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[09-May-2024 07:07:14 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[09-May-2024 07:07:16 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[09-May-2024 07:10:04 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[09-May-2024 07:10:16 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[09-May-2024 08:59:34 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[10-May-2024 10:11:33 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[10-May-2024 11:02:38 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[10-May-2024 12:02:28 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[10-May-2024 16:02:55 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[10-May-2024 16:05:46 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[10-May-2024 16:09:40 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[11-May-2024 10:46:11 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 09:21:27 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 09:53:36 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 10:07:04 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 10:11:30 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 10:40:24 America/Fortaleza] PHP Warning:  require(../classes/sql.class.php): Failed to open stream: No such file or directory in /home2/zephyr98/public_html/gestor/processa/criarConta.php on line 5
+[13-May-2024 10:40:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../classes/sql.class.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/zephyr98/public_html/gestor/processa/criarConta.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/zephyr98/public_html/gestor/processa/criarConta.php on line 5
+[13-May-2024 10:41:02 America/Fortaleza] PHP Warning:  require(../classes/sql.class.php): Failed to open stream: No such file or directory in /home2/zephyr98/public_html/gestor/processa/criarConta.php on line 5
+[13-May-2024 10:41:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../classes/sql.class.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/zephyr98/public_html/gestor/processa/criarConta.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/zephyr98/public_html/gestor/processa/criarConta.php on line 5
+[13-May-2024 10:41:36 America/Fortaleza] PHP Warning:  require(../classes/sql.class.php): Failed to open stream: No such file or directory in /home2/zephyr98/public_html/gestor/processa/criarConta.php on line 11
+[13-May-2024 10:41:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../classes/sql.class.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/zephyr98/public_html/gestor/processa/criarConta.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/zephyr98/public_html/gestor/processa/criarConta.php on line 11
+[13-May-2024 10:44:56 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 10:51:10 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 10:58:52 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 10:59:54 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 11:13:06 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 11:22:46 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 12:04:42 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[13-May-2024 12:09:34 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[14-May-2024 08:44:17 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[14-May-2024 08:54:07 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[16-May-2024 21:20:13 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[16-May-2024 21:24:38 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[16-May-2024 21:27:21 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[17-May-2024 12:15:10 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[17-May-2024 12:39:53 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[18-May-2024 14:48:14 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[18-May-2024 17:38:12 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[18-May-2024 17:41:53 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
+[18-May-2024 17:53:36 America/Fortaleza] PHP Warning:  Undefined array key "tentativas_login" in /home2/zephyr98/public_html/gestor/processa/processa_login.php on line 34
