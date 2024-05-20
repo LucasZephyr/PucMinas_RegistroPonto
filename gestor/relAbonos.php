@@ -85,7 +85,7 @@ $getDadoAbonosRelatorio = $sql->getDadoAbonosRelatorio();
                                 }
                                 ?>
                                     <tr>
-                                        <td scope="col"><?=utf8_encode($dados['nome'])?></td>
+                                        <td scope="col"><?=utf8_decode(utf8_encode($dados['nome']))?></td>
                                         <td scope="col"><?=$dados['batida1']?></td>
                                         <td scope="col"><?=$dados['batida2']?></td>
                                         <td scope="col"><?=$dados['batida3']?></td>
