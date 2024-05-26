@@ -11,17 +11,16 @@ include '../../classes/sql.class.php';
 if ($_SERVER['REQUEST_METHOD'] === 'POST') { #inicio validacao csrf_token
     # Verificar o token CSRF
 
-    /*
-    if (!isset($_REQUEST['csrf_token']) || $_REQUEST['csrf_token'] !== $_SESSION['csrf_token']) {
+    
+    if (!isset($_REQUEST['csrf_token']) != $_SESSION['csrf_token']) {
         # Token CSRF invalido, redirecionar o usuario para uma pagina login
 
         $_SESSION['erro'] = 1; #erro 1 csrf
         header('Location: https://zephyrpa.online/gestor/login.php?erro=1');
         exit();
 
-
     }
-    */
+    
 
 
 
