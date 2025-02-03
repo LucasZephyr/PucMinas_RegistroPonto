@@ -30,7 +30,7 @@
 - [PHP]
 - [Jquery] 
 - [Bootstrap]
-- [JavaScript]![Uploading print_interface_inicial.PNG…]()
+- [JavaScript]
 
 
 ## Instalação
