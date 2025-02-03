@@ -1,3 +1,8 @@
+![print_interface_inicial](https://github.com/user-attachments/assets/9c520b63-3650-4b9e-98e9-0e8bb5a05a5f)
+
+
+
+
 # Zephyr
 
 ##### Sistema feito em grande parte em PHP para registro de ponto eletrônicamente.
@@ -25,7 +30,8 @@
 - [PHP]
 - [Jquery] 
 - [Bootstrap]
-- [JavaScript]
+- [JavaScript]![Uploading print_interface_inicial.PNG…]()
+
 
 ## Instalação
 
